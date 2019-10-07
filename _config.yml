@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
+title: 暖蛙的 Java 开发学习
+subtitle: 笔记与随记
+description: 包括 Linux 命令，计算机基础知识随记，Java 后端知识随记。
+keywords: Java 开发， Linux知识
+author: warmfrog
+language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://warmfrog.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
