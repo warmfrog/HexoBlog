@@ -79,6 +79,8 @@ pagination_dir: page
 ##theme: hexo-theme-Claudia
 ##theme: hexo-theme-icarus
 theme: hexo-theme-yilia-plus
+##theme: theme-ad
+##theme: hexo-theme-antiquity
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
